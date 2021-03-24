@@ -1,0 +1,12 @@
+/* Extra small devices ,Small devices, Medium devices */
+@media(max-width:991.98px) {
+    section .container{
+        max-width: 400px;   
+    }
+    section .imgbox {
+        display: none;
+    }
+    section .list-details {
+        width: 100%;
+    }
+}
